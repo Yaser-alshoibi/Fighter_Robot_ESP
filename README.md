@@ -25,7 +25,7 @@ After connecting to the router, the user will be able to use the robot movement 
 
 Here I showed both working modes for ESP and data received by ESP.
 
-
+**Note: Unmute the video to hear my explanation.**
 
 https://user-images.githubusercontent.com/85786699/129125257-b364739f-2bd2-49fd-a155-3972bbcdef34.mp4
 
